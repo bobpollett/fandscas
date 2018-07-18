@@ -1,0 +1,7 @@
+- add craig wittig to paging server
+- hi static trip on ahu6
+- 3500/606 triac program update
+- controller on 3500-5, 3500-1 now have triacs as well
+- vvs damper now says off on graphic on 3500-1
+- occ on min cfm setpts change, do not want this
+- 3500-5 and 3500-1 have no 0 CFM setpt on unoccupied
